@@ -1,7 +1,7 @@
 # PKK
 Tugas PKK
 
-Untuk Demo: <a href="https://justwacs.github.io/Uap/" target="_blank">Klik Disini</a>
+Untuk Demo: <a href="https://justwacs.github.io/PKK" target="_blank">Klik Disini</a>
 <br>
 
 ## Authors
